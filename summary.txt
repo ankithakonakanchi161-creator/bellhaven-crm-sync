@@ -1,0 +1,59 @@
+DUPLICATE
+---------
+Bellhaven of Owosso
+Keep: 001EGU7BMJ942ZTRE6
+Deactivate: 001QU150PM4Z15UA71
+
+
+NAME CORRECTIONS
+----------------
+Bellhaven of Sycamore Ridge -> Bellhaven at Sycamore Ridge
+Bellhaven Health Care Center of Ashland -> Bellhaven Healthcare Centre of Ashland
+Bellhaven Rehab and Nursing of Grove City -> Bellhaven Rehabilitation & Nursing of Grove City
+Arbors at Bellhaven Dayton -> The Arbors at Bellhaven - Dayton
+
+
+CHOW REQUIRED
+-------------
+Bellhaven of Marietta
+Revenue = 51250
+AR = 3800
+
+Bellhaven of Tiffin
+Revenue = 84000
+AR = 12400
+
+
+REPARENT CANDIDATE
+------------------
+Bellhaven Crossings of Lima
+Revenue = 47000
+AR = 0
+
+CONFIRMED FINDINGS
+
+1. Duplicate Account
+   - Bellhaven of Owosso
+   - Keep: 001EGU7BMJ942ZTRE6
+   - Inactivate: 001QU150PM4Z15UA71
+
+2. CHOW Required
+   - Bellhaven of Marietta
+   - Revenue: 51,250
+   - Outstanding AR: 3,800
+
+3. CHOW Required
+   - Bellhaven of Tiffin
+   - Revenue: 84,000
+   - Outstanding AR: 12,400
+
+4. Re-parent Candidate
+   - Bellhaven Crossings of Lima
+   - Revenue: 47,000
+   - Outstanding AR: 0
+
+5. Name Corrections
+   - Bellhaven at Sycamore Ridge
+   - Bellhaven Healthcare Centre of Ashland
+   - Bellhaven Rehabilitation & Nursing of Grove City
+   - The Arbors at Bellhaven - Dayton
