@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+
+.vscode/
+
+venv/
+.venv/
+
+page1.html
